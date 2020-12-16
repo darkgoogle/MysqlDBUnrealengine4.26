@@ -35,7 +35,7 @@ Note by Back2RL: I added an example Blueprint called SQL_TESTER and some ohter B
 
 ## Currently supported platforms
 
-The current version was built and tested using Windows with Unreal Engine version 4.19.1.
+The current version was built and tested using Windows with Unreal Engine version 4.26.
 }
 
 Win32 and Win64 platforms are currently supported and tested. Mac and Linux should work as well but requires compiling the MySQL binaries and editing the build script so that the compiler can find the correct libraries to link to. Contributions on this would be much appreciated.
